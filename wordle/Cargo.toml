@@ -1,0 +1,9 @@
+[package]
+name = "wordle"
+version = "0.1.0"
+edition = "2021"
+
+[features]
+
+[dependencies]
+rayon = "1.5.1"
